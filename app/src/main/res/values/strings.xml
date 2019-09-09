@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calcule o IMC</string>
+    <string name="enviar">Enviar</string>
+    <string name="alerta_nenhum_valor_informado" > Informe os 2 valores </string>
+</resources>
